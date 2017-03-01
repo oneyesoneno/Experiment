@@ -4,7 +4,7 @@ set -e
 
 umask 077
 
-basedir=~/.bitcoin
+basedir=~/.bitcoins
 dbfile="$basedir/DB_CONFIG"
 cfgfile="$basedir/bitcoin.conf"
 
