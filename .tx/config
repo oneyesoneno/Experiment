@@ -5,3 +5,4 @@ host = https://www.transifex.com
 file_filter = src/qt/locale/experimentcoin_<lang>.ts
 source_file = src/qt/locale/experimentcoin_en.ts
 source_lang = en
+s
