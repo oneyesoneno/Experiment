@@ -31,4 +31,3 @@ binary-post-install/bitcoind:
 	chmod +x $(cdbs_curdestdir)usr/bin/bitcoind
 binary-post-install/bitcoin-qt:
 	chmod +x $(cdbs_curdestdir)usr/bin/bitcoin-qt
-a
