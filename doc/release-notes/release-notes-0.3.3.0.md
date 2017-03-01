@@ -1,13 +1,13 @@
-Paycoin version 0.3.3.0 is now available from:
+Experimentcoin version 0.3.3.0 is now available from:
 
-  https://github.com/PaycoinFoundation/paycoin/releases
+  https://github.com/oneyesoneno/releases
 
 This is a mandatory update, including microprimes updates, replacement prime node
 keys and multiple bug fixes.
 
 Please report bugs using the issue tracker at github:
 
-  https://github.com/PaycoinFoundation/paycoin/issues
+  https://github.com/oneyesoneno/issues
 
 Upgrading and downgrading
 =========================
@@ -17,16 +17,16 @@ How to Upgrade
 
 If you are running an older version, shut it down. Wait until it has completely
 shut down (this could take a few minutes), then run the installer (on Windows)
-or just copy over /Applications/Paycoin-Qt (on Mac) or paycoind/paycoin-qt (on Linux).
+or just copy over /Applications/experimentcoin-Qt (on Mac) or experimentcoind/experimentcoin-qt (on Linux).
 
 If you encounter any issues starting the new wallet it is recommended that you delete and resync the blockchain. To delete the blockchain look in the
-Paycoin data directory (listed below) and delete everything except the wallet.dat and paycoin.conf
+Experimentcoin data directory (listed below) and delete everything except the wallet.dat and experimentcoin.conf
 
-Linux : ~/.paycoin/
+Linux : ~/.experimentcoin/
 
-Windows : %appdata%\Paycoin
+Windows : %appdata%\experimentcoin
 
-Mac : ~/Library/Application Support/Paycoin
+Mac : ~/Library/Application Support/experimentcoin
 
 It is highly recommended that if you do not have a backup of your wallet.dat
 to go ahead and make one before deleting the blockchain.
