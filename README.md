@@ -9,4 +9,4 @@ the name of open source software which enables the use of this currency.
 Apa itu ExperimentCoin?
 ----------------
 
-ExperimentCoin ialah currency yg diciptakan oleh manusia yang tidak ada kerjaan, lagi suntuk dan sedikit aneh aneh
+ExperimentCoin ialah currency yg diciptakan oleh manusia yang lagi suntuk dan sedikit aneh aneh. Mengamalkan konsep proof-of-stake, maka currency ini akan dapat menghilangkan stress dan hidup dengan lebih happy =_=! .. Maaf asal asal nulis aja!!
