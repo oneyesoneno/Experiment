@@ -10,3 +10,8 @@ ExperimentCoin is an experimental new digital currency that enables instant paym
 anyone, anywhere in the world. ExperimentCoin uses a proof-of-stake method in order for
 the ExperimentCoin blockchain network to achieve distributed consensus. ExperimentCoin Core is
 the name of open source software which enables the use of this currency.
+
+Jangan Bother Untuk Download
+----------------
+
+Belum berfungsi coy!
