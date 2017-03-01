@@ -1,13 +1,13 @@
-Paycoin version 0.2.0.0 is now available from:
+ExperimentCoin version 0.2.0.0 is now available from:
 
-  https://github.com/PaycoinFoundation/paycoin/releases
+  https://github.com/oneyesoneno/ExperimentCoin/releases
 
 This is a mandatory update, including a modification to the primenode stake
 rate and many bug fixes.
 
 Please report bugs using the issue tracker at github:
 
-  https://github.com/PaycoinFoundation/paycoin/issues
+  https://github.com/oneyesoneno/ExperimentCoin/issues
 
 Upgrading and downgrading
 =========================
@@ -17,18 +17,18 @@ How to Upgrade
 
 If you are running an older version, shut it down. Wait until it has completely
 shut down (this could take a few minutes), then run the installer (on Windows)
-or just copy over /Applications/Paycoin-Qt (on Mac) or paycoind/paycoin-qt (on Linux).
+or just copy over /Applications/experimentcoin-Qt (on Mac) or experimentcoind/experimentcoin-qt (on Linux).
 
 In some cases users may be required to delete and resync their blockchain do to
 a race/version issue with Berkeley DB. To delete the blockchain look in the
-Paycoin data directory (listed below) and delete everything except the
-wallet.dat and paycoin.conf
+Experimentcoin data directory (listed below) and delete everything except the
+wallet.dat and experimentcoin.conf
 
-Linux : ~/.paycoin/
+Linux : ~/.experimentcoin/
 
-Windows : %appdata%\Roaming\Paycoin
+Windows : %appdata%\Roaming\experimentcoin
 
-Mac : ~/Library/Application Support/Paycoin
+Mac : ~/Library/Application Support/experimentcoin
 
 It is highly recommended that if you do not have a backup of your wallet.dat
 to go ahead and make one before deleting the blockchain.
@@ -147,31 +147,10 @@ Miscellaneous:
 - `638f0a0` Update README.md
 - `c0faa76` Update README.md
 - `177ecca` Checkpoints for every 2500 or so blocks from 50000 to 95000
-- `62a3da1` Update GitHub URLs to point to PaycoinFoundation/paycoin
 - `1ac376d` Update version numbers to 0.1.2.26
 - `b8837fe` Fix spelling mistakes
 - `6b20f1d` Remove printf lines containing PRId64 as this breaks gitian builds
-- `19ca0ef` Point GitHub URL to PaycoinFoundation
 - `9a47b43` Update HTTP to HTTPS
 - `12ae607` Fix references to the MIT licence
 - `a0a6b5f` Replace reference to license.txt with COPYING
 - `492869c` Fix translation file names
-
-Credits
-=======
-
-Thanks to everyone who contributed to this release:
-
-- Craig
-- Crestington
-- Evan Lucas
-- Hans Looman
-- Jason Sponaugle
-- Mark Achée
-- Marlon Hanks
-- Mitchell Cash
-- Nathan Bass
-- Paycoin Developer Team
-- Treefunder Incorporated
-- Victor J Vargas II
-- wdl1908
