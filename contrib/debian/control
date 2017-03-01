@@ -56,4 +56,3 @@ Description: peer-to-peer network based digital currency - QT GUI
  requires 2+ GB of space, slowly growing.
  .
  This package provides bitcoin-qt, a GUI for Bitcoin based on QT.
-a
