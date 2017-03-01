@@ -1,7 +1,7 @@
 Apa itu ExperimentCoin?
 ----------------
 
-ExperimentCoin ialah currency yg diciptakan oleh manusia yang lagi suntuk dan sedikit aneh aneh. Mengamalkan konsep proof-of-stake, maka currency ini akan dapat menghilangkan stress dan menjadikan hidup manusia dengan lebih happy ^_^v
+ExperimentCoin ialah currency yg diciptakan oleh manusia yang lagi suntuk dan sedikit aneh aneh. Mengamalkan konsep proof-of-stake, maka currency ini akan dapat menghilangkan stress dan menjadikan hidup manusia lebih happy ^_^v
 
 What is ExperimentCoin?
 ----------------
